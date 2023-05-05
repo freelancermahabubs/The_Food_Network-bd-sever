@@ -1,0 +1,362 @@
+[
+  {
+    "id": "01",
+    "image": "https://i.ibb.co/7yqwCNT/first.png",
+    "name": "Jimmine K. cayer",
+
+    "year_of_experience": "4 Year of Experience",
+    "likes": "14k",
+
+    "chefDescription": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
+    "number_of_recipes": "899",
+    "recipe": [
+      {
+        "id": "01",
+        "recipeItemsImg": "https://i.ibb.co/BqBS2GM/download.jpg",
+        "recipeName": "Colcannon Potatoes",
+        "ingredients": [
+          "Vanilla extract",
+          "Brown sugar",
+          "Granulated sugar",
+          "Butter",
+          "Baking soda"
+        ],
+
+        "cooking_method": "Every Irish family has its own version or this classic dish. My recipe comes from my father’s family in Ireland. It’s part of my St. Pat’s menu, along with lamb chops, carrots and soda bread. —Marilou Robinson, Portland, Oregon.",
+        "rating": { "number": 4.2 }
+      },
+      {
+        "id": "02",
+        "recipeItemsImg": "https://i.ibb.co/sbCGbDS/download-2.jpg",
+        "recipeName": "Irish Spiced Beef",
+        "ingredients": [
+          "Grilled Shrimp & Watermelon Sliders",
+          "Dark Cherry Syrup",
+          "Cheeseburger Tacos",
+          "Farmers Market Street Tacos",
+          "Air-Fryer Cabbage"
+        ],
+
+        "cooking_method": "The story goes that my Irish ancestors brought this recipe along when they immigrated to the U.S. It takes nearly a week, start to finish, but that gives the meat time to become really tenderized and build up layers of flavor. —Mary Shenk, Dekalb, Illinois",
+        "rating": { "number": 4.8 }
+      },
+      {
+        "id": "03",
+        "recipeItemsImg": "https://i.ibb.co/NTTvtnH/download-4.jpg",
+        "recipeName": "Scottish Oatmeal Rolls",
+        "ingredients": [
+          "Lemon Ricotta Pasta",
+          "Kentucky Mule",
+          "Bacon Cheeseburger Casserole",
+          "Cheeseburger Bombs",
+          "Plum Poppy Seed Cake"
+        ],
+
+        "cooking_method": "My family likes rolls that can hold up to scooping gravies, sauces and more. This recipe is a favorite. The oatmeal in the dough gives it a Scottish touch. —Peggy Goodrich, Enid, Oklahoma",
+        "rating": { "number": 4.5 }
+      }
+    ],
+    "recipeItems": {
+      "recipeItemsDetails": "Be it any occasion, we all love to eat pizza at home. But, what goes behind making this delicious dish? Well, learn all about making a delicious pizza at..."
+    }
+  },
+  {
+    "id": "02",
+    "image": "https://i.ibb.co/FJCdrzX/fivve.png",
+    "name": "Rteyed TA. Doe",
+    "year_of_experience": "3 Year of Experience",
+    "likes": "17k",
+
+    "chefDescription": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
+    "number_of_recipes": "8740",
+    "recipe": [
+      {
+        "id": "01",
+        "recipeItemsImg": "https://i.ibb.co/BqBS2GM/download.jpg",
+        "recipeName": "Colcannon Potatoes",
+        "ingredients": [
+          "Lemon Ricotta Pasta",
+          "Kentucky Mule",
+          "Bacon Cheeseburger Casserole",
+          "Cheeseburger Bombs",
+          "Plum Poppy Seed Cake"
+        ],
+
+        "cooking_method": "Every Irish family has its own version or this classic dish. My recipe comes from my father’s family in Ireland. It’s part of my St. Pat’s menu, along with lamb chops, carrots and soda bread. —Marilou Robinson, Portland, Oregon.",
+        "rating": { "number": 4.2 }
+      },
+      {
+        "id": "02",
+        "recipeItemsImg": "https://i.ibb.co/sbCGbDS/download-2.jpg",
+        "recipeName": "Irish Spiced Beef",
+        "ingredients": [
+          "Grilled Shrimp & Watermelon Sliders",
+          "Dark Cherry Syrup",
+          "Cheeseburger Tacos",
+          "Farmers Market Street Tacos",
+          "Air-Fryer Cabbage"
+        ],
+
+        "cooking_method": "The story goes that my Irish ancestors brought this recipe along when they immigrated to the U.S. It takes nearly a week, start to finish, but that gives the meat time to become really tenderized and build up layers of flavor. —Mary Shenk, Dekalb, Illinois",
+        "rating": { "number": 4.8 }
+      },
+      {
+        "id": "03",
+        "recipeItemsImg": "https://i.ibb.co/NTTvtnH/download-4.jpg",
+        "recipeName": "Scottish Oatmeal Rolls",
+        "ingredients": [
+          "Vanilla extract",
+          "Brown sugar",
+          "Granulated sugar",
+          "Butter",
+          "Baking soda"
+        ],
+
+        "cooking_method": "My family likes rolls that can hold up to scooping gravies, sauces and more. This recipe is a favorite. The oatmeal in the dough gives it a Scottish touch. —Peggy Goodrich, Enid, Oklahoma",
+        "rating": { "number": 4.5 }
+      }
+    ],
+    "recipeItems": {
+      "recipeItemsDetails": "Be it any occasion, we all love to eat pizza at home. But, what goes behind making this delicious dish? Well, learn all about making a delicious pizza at..."
+    }
+  },
+  {
+    "id": "03",
+    "image": "https://i.ibb.co/ZxGNcRp/six.png",
+    "name": "Htye D. Yela",
+    "year_of_experience": "8 Year of Experience",
+    "likes": "18k",
+    "chefDescription": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
+    "number_of_recipes": "1000",
+    "recipe": [
+      {
+        "id": "01",
+        "recipeItemsImg": "https://i.ibb.co/BqBS2GM/download.jpg",
+        "recipeName": "Colcannon Potatoes",
+        "ingredients": [
+          "Vanilla extract",
+          "Brown sugar",
+          "Granulated sugar",
+          "Butter",
+          "Baking soda"
+        ],
+
+        "cooking_method": "Every Irish family has its own version or this classic dish. My recipe comes from my father’s family in Ireland. It’s part of my St. Pat’s menu, along with lamb chops, carrots and soda bread. —Marilou Robinson, Portland, Oregon.",
+        "rating": { "number": 4.2 }
+      },
+      {
+        "id": "02",
+        "recipeItemsImg": "https://i.ibb.co/sbCGbDS/download-2.jpg",
+        "recipeName": "Irish Spiced Beef",
+        "ingredients": [
+          "Lemon Ricotta Pasta",
+          "Kentucky Mule",
+          "Bacon Cheeseburger Casserole",
+          "Cheeseburger Bombs",
+          "Plum Poppy Seed Cake"
+        ],
+
+        "cooking_method": "The story goes that my Irish ancestors brought this recipe along when they immigrated to the U.S. It takes nearly a week, start to finish, but that gives the meat time to become really tenderized and build up layers of flavor. —Mary Shenk, Dekalb, Illinois",
+        "rating": { "number": 4.8 }
+      },
+      {
+        "id": "03",
+        "recipeItemsImg": "https://i.ibb.co/NTTvtnH/download-4.jpg",
+        "recipeName": "Scottish Oatmeal Rolls",
+        "ingredients": [
+          "Grilled Shrimp & Watermelon Sliders",
+          "Dark Cherry Syrup",
+          "Cheeseburger Tacos",
+          "Farmers Market Street Tacos",
+          "Air-Fryer Cabbage"
+        ],
+
+        "cooking_method": "My family likes rolls that can hold up to scooping gravies, sauces and more. This recipe is a favorite. The oatmeal in the dough gives it a Scottish touch. —Peggy Goodrich, Enid, Oklahoma",
+        "rating": { "number": 4.5 }
+      }
+    ],
+    "recipeItems": {
+      "recipeItemsDetails": "Be it any occasion, we all love to eat pizza at home. But, what goes behind making this delicious dish? Well, learn all about making a delicious pizza at..."
+    }
+  },
+  {
+    "id": "04",
+    "image": "https://i.ibb.co/mRtnkNg/fourth.png",
+    "name": "Jon-De",
+    "year_of_experience": "4 Year of Experience",
+    "likes": "99k",
+    "chefDescription": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
+    "number_of_recipes": "990",
+    "recipe": [
+      {
+        "id": "01",
+        "recipeItemsImg": "https://i.ibb.co/BqBS2GM/download.jpg",
+        "recipeName": "Colcannon Potatoes",
+        "ingredients": [
+          "Vanilla extract",
+          "Brown sugar",
+          "Granulated sugar",
+          "Butter",
+          "Baking soda"
+        ],
+
+        "cooking_method": "Every Irish family has its own version or this classic dish. My recipe comes from my father’s family in Ireland. It’s part of my St. Pat’s menu, along with lamb chops, carrots and soda bread. —Marilou Robinson, Portland, Oregon.",
+        "rating": { "number": 4.2 }
+      },
+      {
+        "id": "02",
+        "recipeItemsImg": "https://i.ibb.co/sbCGbDS/download-2.jpg",
+        "recipeName": "Irish Spiced Beef",
+        "ingredients": [
+          "Grilled Shrimp & Watermelon Sliders",
+          "Dark Cherry Syrup",
+          "Cheeseburger Tacos",
+          "Farmers Market Street Tacos",
+          "Air-Fryer Cabbage"
+        ],
+
+        "cooking_method": "The story goes that my Irish ancestors brought this recipe along when they immigrated to the U.S. It takes nearly a week, start to finish, but that gives the meat time to become really tenderized and build up layers of flavor. —Mary Shenk, Dekalb, Illinois",
+        "rating": { "number": 4.8 }
+      },
+      {
+        "id": "03",
+        "recipeItemsImg": "https://i.ibb.co/NTTvtnH/download-4.jpg",
+        "recipeName": "Scottish Oatmeal Rolls",
+        "ingredients": [
+          "Lemon Ricotta Pasta",
+          "Kentucky Mule",
+          "Bacon Cheeseburger Casserole",
+          "Cheeseburger Bombs",
+          "Plum Poppy Seed Cake"
+        ],
+
+        "cooking_method": "My family likes rolls that can hold up to scooping gravies, sauces and more. This recipe is a favorite. The oatmeal in the dough gives it a Scottish touch. —Peggy Goodrich, Enid, Oklahoma",
+        "rating": { "number": 4.5 }
+      }
+    ],
+
+    "recipeItems": {
+      "recipeItemsDetails": "Be it any occasion, we all love to eat pizza at home. But, what goes behind making this delicious dish? Well, learn all about making a delicious pizza at..."
+    }
+  },
+  {
+    "id": "05",
+    "image": "https://i.ibb.co/tXKgHmP/third.png",
+    "name": "Yelowt Lat. cayer",
+
+    "year_of_experience": "4 Year of Experience",
+    "likes": "15k",
+
+    "chefDescription": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
+    "number_of_recipes": "880",
+    "recipe": [
+      {
+        "id": "01",
+        "recipeItemsImg": "https://i.ibb.co/BqBS2GM/download.jpg",
+        "recipeName": "Colcannon Potatoes",
+        "ingredients": [
+          "Lemon Ricotta Pasta",
+          "Kentucky Mule",
+          "Bacon Cheeseburger Casserole",
+          "Cheeseburger Bombs",
+          "Plum Poppy Seed Cake"
+        ],
+
+        "cooking_method": "Every Irish family has its own version or this classic dish. My recipe comes from my father’s family in Ireland. It’s part of my St. Pat’s menu, along with lamb chops, carrots and soda bread. —Marilou Robinson, Portland, Oregon.",
+        "rating": { "number": 4.2 }
+      },
+      {
+        "id": "02",
+        "recipeItemsImg": "https://i.ibb.co/sbCGbDS/download-2.jpg",
+        "recipeName": "Irish Spiced Beef",
+        "ingredients": [
+          "Vanilla extract",
+          "Brown sugar",
+          "Granulated sugar",
+          "Butter",
+          "Baking soda"
+        ],
+
+        "cooking_method": "The story goes that my Irish ancestors brought this recipe along when they immigrated to the U.S. It takes nearly a week, start to finish, but that gives the meat time to become really tenderized and build up layers of flavor. —Mary Shenk, Dekalb, Illinois",
+        "rating": { "number": 4.8 }
+      },
+      {
+        "id": "03",
+        "recipeItemsImg": "https://i.ibb.co/NTTvtnH/download-4.jpg",
+        "recipeName": "Scottish Oatmeal Rolls",
+        "ingredients": [
+          "Grilled Shrimp & Watermelon Sliders",
+          "Dark Cherry Syrup",
+          "Cheeseburger Tacos",
+          "Farmers Market Street Tacos",
+          "Air-Fryer Cabbage"
+        ],
+
+        "cooking_method": "My family likes rolls that can hold up to scooping gravies, sauces and more. This recipe is a favorite. The oatmeal in the dough gives it a Scottish touch. —Peggy Goodrich, Enid, Oklahoma",
+        "rating": { "number": 4.5 }
+      }
+    ],
+    "recipeItems": {
+      "recipeItemsDetails": "Be it any occasion, we all love to eat pizza at home. But, what goes behind making this delicious dish? Well, learn all about making a delicious pizza at..."
+    }
+  },
+  {
+    "id": "06",
+    "image": "https://i.ibb.co/GPX97Ts/second.png",
+    "name": "Remdti TAEK. Jiet",
+    "year_of_experience": "4 Year of Experience",
+    "likes": "8k",
+    "chefDescription": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
+    "number_of_recipes": "1890",
+    "recipe": [
+      {
+        "id": "01",
+        "recipeItemsImg": "https://i.ibb.co/BqBS2GM/download.jpg",
+        "recipeName": "Colcannon Potatoes",
+        "ingredients": [
+          "Grilled Shrimp & Watermelon Sliders",
+          "Dark Cherry Syrup",
+          "Cheeseburger Tacos",
+          "Farmers Market Street Tacos",
+          "Air-Fryer Cabbage"
+        ],
+
+        "cooking_method": "Every Irish family has its own version or this classic dish. My recipe comes from my father’s family in Ireland. It’s part of my St. Pat’s menu, along with lamb chops, carrots and soda bread. —Marilou Robinson, Portland, Oregon.",
+        "rating": { "number": 4.2 }
+      },
+      {
+        "id": "02",
+        "recipeItemsImg": "https://i.ibb.co/sbCGbDS/download-2.jpg",
+        "recipeName": "Irish Spiced Beef",
+        "ingredients": [
+          "Vanilla extract",
+          "Brown sugar",
+          "Granulated sugar",
+          "Butter",
+          "Baking soda"
+        ],
+
+        "cooking_method": "The story goes that my Irish ancestors brought this recipe along when they immigrated to the U.S. It takes nearly a week, start to finish, but that gives the meat time to become really tenderized and build up layers of flavor. —Mary Shenk, Dekalb, Illinois",
+        "rating": { "number": 4.8 }
+      },
+      {
+        "id": "03",
+        "recipeItemsImg": "https://i.ibb.co/NTTvtnH/download-4.jpg",
+        "recipeName": "Scottish Oatmeal Rolls",
+        "ingredients": [
+          "Lemon Ricotta Pasta",
+          "Kentucky Mule",
+          "Bacon Cheeseburger Casserole",
+          "Cheeseburger Bombs",
+          "Plum Poppy Seed Cake"
+        ],
+
+        "cooking_method": "My family likes rolls that can hold up to scooping gravies, sauces and more. This recipe is a favorite. The oatmeal in the dough gives it a Scottish touch. —Peggy Goodrich, Enid, Oklahoma",
+        "rating": { "number": 4.5 }
+      }
+    ],
+    "recipeItems": {
+      "recipeItemsDetails": "Be it any occasion, we all love to eat pizza at home. But, what goes behind making this delicious dish? Well, learn all about making a delicious pizza at..."
+    }
+  }
+]

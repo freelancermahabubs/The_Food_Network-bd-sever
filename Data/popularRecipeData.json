@@ -1,0 +1,34 @@
+[
+  {
+    "id": "01",
+    "image": "https://i.ibb.co/c8tRWMX/20140501-DSC-002711-1-560x400.jpg",
+    "name": "American",
+    "price": "$458",
+    "dec": "Sit amet est et sapien ullamcorper pharetra. Aenean ultricies mi vitae est.",
+    "reviews": "852K"
+  },
+  {
+    "id": "02",
+    "image": "https://i.ibb.co/bFqSs5v/baked-sesame-chicken-recipe-9-1-560x400.jpg",
+    "name": "Main Dish",
+    "price": "$778",
+    "dec": "Easy Oven-Baked Sesame Chicken Thighs",
+    "reviews": "752K"
+  },
+  {
+    "id": "03",
+    "image": "https://i.ibb.co/zGD46m1/food-salad-healthy-lunch-1-560x400.jpg",
+    "name": "KSA United",
+    "price": "$758",
+    "dec": "Pizza with salami, olives and goat cheese",
+    "reviews": "952K"
+  },
+  {
+    "id": "04",
+    "image": "https://i.ibb.co/mD3BPfX/chicken-steak-vegetables-beer1-1-560x400.jpg",
+    "name": "UTED United",
+    "price": "$458",
+    "dec": "Spinach, chicken & pomegranate salads",
+    "reviews": "152K"
+  }
+]
